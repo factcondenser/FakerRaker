@@ -7,5 +7,5 @@ To use Selenium with Firefox, you'll need to install [Mozilla geckodriver](https
 ## Usage
 ```sh
 # Prints all methods for faker
-get_gem_methods.rb faker  
+$ get_gem_methods.rb faker  
 ```
